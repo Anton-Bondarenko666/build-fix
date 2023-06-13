@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35524074-7e70-4c68-a28d-383e320f07ae" name="Changes" comment="build-1-brk init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="build-2-brk" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R8xA5GZrU1QUNSHpFEM8E9nFod" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/backyard/Desktop/fork/build-test-task/build-fix",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/gradle/wrapper" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35524074-7e70-4c68-a28d-383e320f07ae" name="Changes" comment="" />
+      <created>1686645362140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686645362140</updated>
+      <workItem from="1686645363239" duration="2484000" />
+      <workItem from="1686647859809" duration="11000" />
+      <workItem from="1686647878386" duration="5429000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1686645489368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686645489368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init build 1">
+      <created>1686645719799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686645719799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ios/android build 1 fixes">
+      <created>1686647698308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647698308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init build 2">
+      <created>1686647949103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647949103</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ios/android build 2 fixes">
+      <created>1686657138899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686657138899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init build 3">
+      <created>1686657246302</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686657246302</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init build 3">
+      <created>1686657321878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686657321878</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ios/android build 3 fixes">
+      <created>1686658490500</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686658490500</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init build 4">
+      <created>1686658606688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686658606688</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init build 4">
+      <created>1686658652283</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686658652283</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ios/android build 4 fixes">
+      <created>1686658930564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686658930564</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init build 5">
+      <created>1686659089151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686659089151</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ios/android build 5 fixes">
+      <created>1686659635737</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686659635737</updated>
+    </task>
+    <task id="LOCAL-00014" summary="build-1-brk init">
+      <created>1686663241841</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686663241841</updated>
+    </task>
+    <task id="LOCAL-00015" summary="build-1-brk init">
+      <created>1686663304881</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686663304881</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="init build 1" />
+    <MESSAGE value="ios/android build 1 fixes" />
+    <MESSAGE value="init build 2" />
+    <MESSAGE value="ios/android build 2 fixes" />
+    <MESSAGE value="init build 3" />
+    <MESSAGE value="ios/android build 3 fixes" />
+    <MESSAGE value="init build 4" />
+    <MESSAGE value="ios/android build 4 fixes" />
+    <MESSAGE value="init build 5" />
+    <MESSAGE value="ios/android build 5 fixes" />
+    <MESSAGE value="build-1-brk init" />
+    <option name="LAST_COMMIT_MESSAGE" value="build-1-brk init" />
+  </component>
+</project>
