@@ -1,4 +1,5 @@
 apply plugin: "com.android.application"
+apply plugin: "com.facebook.react"
 
 project.ext.envConfigFiles = [
         development: ".env.development",
@@ -85,9 +86,6 @@ import org.apache.tools.ant.taskdefs.condition.Os
  *   extraPackagerArgs: []
  * ]
  */
-
-apply from: "../../node_modules/react-native/react.gradle"
-
 /**
  * Set this to true to create two separate APKs instead of one:
  *   - An APK that only works on ARM devices
@@ -123,6 +121,9 @@ def jscFlavor = 'org.webkit:android-jsc:+'
  * on project.ext.react, JavaScript will not be compiled to Hermes Bytecode
  * and the benefits of using Hermes will therefore be sharply reduced.
  */
+ project.ext.react = [
+     enableHermes: false
+ ]
 def enableHermes = project.ext.react.get("enableHermes", false)
 
 /**
